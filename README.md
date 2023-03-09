@@ -4,7 +4,7 @@
 I usually spend most of my time swearing at Gradle😂
 Other times I am building stuff with Kotlin and Java.
 
-###Skills:
+### Skills:
 
 Kotlin
 Java
@@ -15,7 +15,7 @@ RESTful APIs
 
 Debugging is a form of meditation 🧘‍♀️.
 
-Connect with me:
+## Connect with me:
 
 Email 📧: kabeamungai@gmail.com
 Twitter 🐦: https://twitter.com/_mmungai
